@@ -1,0 +1,24 @@
+{
+  "name": "home",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "git:add": "git add .",
+    "git:commit": "git commit -m \"commit\"",
+    "git:push_english": "git push origin english",
+    "push": "npm-run-all git:add git:commit git:push_english"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rena-discord/rena-app.com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rena-discord/rena-app.com/issues"
+  },
+  "homepage": "https://github.com/rena-discord/rena-app.com#readme"
+}
