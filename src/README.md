@@ -13,6 +13,11 @@ The commands are categorized by command category, and within each category is a 
 Chat command usage is written but not implemented.
 !!!
 
+!!!info Manner of writing in this site
+`<>`: Parameters not required<br>
+`()`: Required Parameters
+!!!
+
 ## Links
 
 !!!success Guides
