@@ -18,6 +18,13 @@ If you do not see the server you want to add, please visit the [login page](http
 
 In order for the Rena Application to work properly, it must be authorized to complete the necessary tasks. The easiest way to accomplish this is to grant administrative privileges to the "Rena Application" role and drag it to the top (or near the top) of the role list.
 ![](/static/changing_the_position_of_the_role.gif)
+
+## Let's set the server language.
+
+Use the [`/util setlanguage`](../commands/util/setlanguage.md) command to set the language in the server.
+
+![](/static/use_language_command.gif)
+
 !!!success Done!
 This completes the process of adding the bot to the server.
 !!!

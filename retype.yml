@@ -4,8 +4,9 @@ url: rena-app.com
 favicon: /static/favicon.ico
 branding:
   title: Rena Application
-  label: v1.0.0
+  label: v1.3.1
   logo: /static/logo.png
+  description: Official documentation for Rena Application, Discord's easy-to-understand and easy-to-use multifunction bot.
 poweredByRetype: true
 links:
   - text: Home

@@ -1,35 +1,33 @@
-# Play
+# Play(β)
 
 ## Info
 
-Additional version: v.1.0.0<br>
-Program Lines: 94
+Additional version: v.1.1.0<br>
+Program Lines: 104(more)
 
 ## Syntx
 
 !!!info Chat command syntax
-`rn/play (track)`
+`rn/util setLanguage (language)`
 !!!
 !!!info Slash command syntax
-`/play music: (track)`
+`/util setlanguage language: (Japanese(日本語)/English(US))`
 !!!
 
 ## Description
 
-Play music on the voice channel.
+Set the server language.
 
 !!!warning Attention!
 This system is in beta.
-Sound quality may be poor and music may be choppy.
+The word "undifined" may appear.
 !!!
 
 ## Required Permissions
 
 - [!badge variant="primary" text="Send messages"] or [!badge variant="primary" text="Use slash command"]
-- ([!badge variant="primary" text="Connect"])
+- [!badge variant="primary" text="MANAGE_GUILD"]
 
 ## Required Permissions for Bot.
 
 - [!badge variant="primary" text="Send messages"]
-- [!badge variant="primary" text="Connect"]
-- [!badge variant="primary" text="Speak"]
