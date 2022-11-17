@@ -2,16 +2,25 @@
 
 ## Info
 
-Additional version: v.1.0.0<br>
+Additional version: v.1.0.1<br>
 Program Lines: 94
 
 ## Syntx
 
 !!!info Chat command syntax
-`rn/play (track)`
+`rn/track play|queue|stop|skip`
 !!!
 !!!info Slash command syntax
-`/play music: (track)`
+`/track play|queue|stop|skip`
+!!!
+
+## Play(Sub command) syntx
+
+!!!info Chat command syntax
+`rn/track play (track)`
+!!!
+!!!info Slash command syntax
+`/track play music:track`
 !!!
 
 ## Description

@@ -1,5 +1,9 @@
 # Queue
 
+!!!danger This command has been merged into the track command
+!!!
+
+<!--
 ## Info
 
 Additional version: v.1.0.0<br>
@@ -24,4 +28,4 @@ If music is playing, the contents of the queue are displayed.
 
 ## Required Permissions for Bot.
 
-- [!badge variant="primary" text="Send messages"]
+- [!badge variant="primary" text="Send messages"] -->

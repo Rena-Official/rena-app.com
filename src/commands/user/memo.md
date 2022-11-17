@@ -1,5 +1,8 @@
 # Memo(α)
 
+!!!danger Currently disabled due to a bug
+!!!
+
 ## Info
 
 Additional version: v.1.3.0<br>
